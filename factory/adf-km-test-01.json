@@ -1,0 +1,9 @@
+{
+	"name": "adf-km-test-01",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74ecc6c8-34d4-490b-ac7c-8a830b3d954b",
+		"tenantId": "51f32662-d358-4552-80d6-28f5f62bfcbe"
+	}
+}

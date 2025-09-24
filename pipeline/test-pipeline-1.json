@@ -1,0 +1,19 @@
+{
+	"name": "test-pipeline-1",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 3
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2025-09-23T16:11:56Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
